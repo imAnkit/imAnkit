@@ -4,7 +4,7 @@
     <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
     <h3 align="center">Passionate Cross-Platform Developer | Flutter Enthusiast | Crafting Intuitive and Secure Mobile Experiences</h3>
   </div>
-  <img src="https://github.com/user-attachments/assets/2ed006ab-a1ce-49df-9db7-0bb053120c12" alt="GIF" align="right" width="400" style="border-radius: 50%; overflow: hidden;"/>
+  <img src="https://github.com/user-attachments/assets/2ed006ab-a1ce-49df-9db7-0bb053120c12" alt="GIF" align="right" width="300" style="border-radius: 50%; overflow: hidden;"/>
 </div>
 
 
