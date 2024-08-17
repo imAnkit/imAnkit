@@ -4,8 +4,10 @@
     <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
     <h3 align="center">Passionate Cross-Platform Developer | Flutter Enthusiast | Crafting Intuitive and Secure Mobile Experiences</h3>
   </div>
-  <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="GIF" align="right" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2ed006ab-a1ce-49df-9db7-0bb053120c12" alt="GIF" align="right" width="400" style="border-radius: 50%; overflow: hidden;"/>
 </div>
+
+
 
 - 🔭 I’m currently working on **Amazon Clone**
 
