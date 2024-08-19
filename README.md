@@ -1,5 +1,5 @@
 <a href="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif">
-  <img src="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif" alt="MasterHead" height="350" width="600">
+  <img src="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif" alt="MasterHead" height="350" width="900">
 </a>
 
 
