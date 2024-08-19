@@ -1,4 +1,7 @@
-[![MasterHead](https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif)](https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif)
+<a href="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif">
+  <img src="https://animafoundation.in/wp-content/uploads/2021/03/mobile-app.gif" alt="MasterHead" height="250">
+</a>
+
 
 
 
